@@ -1,0 +1,68 @@
+# Common model format and serialization libraries 
+avro==1.11.1
+protobuf==3.20.3
+fastavro==1.7.1
+joblib==1.2.0
+onnx==1.13.0
+onnxmltools==1.11.1
+onnxruntime==1.14.0
+skl2onnx==1.13
+sklearn2pmml==0.91.0
+nyoka==5.4.0
+pypmml==0.9.17
+
+# Bayesian Optimization library
+bayesian-optimization==1.4.2
+
+# Scrapping tool
+beautifulsoup4==4.11.2
+
+# Cython library
+Cython==0.29.33
+
+fix-yahoo-finance==0.1.30
+
+# Library for imbalance dataset processing
+imblearn==0.0
+
+# JupyterLab library
+jupyterlab==3.6.0
+
+# Kaggle 
+kaggle==1.5.12
+
+# Visualization libraries
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# ML libraries
+mlxtend==0.21.0
+scikit-optimize==0.9.0
+scikit-learn==1.2.1
+statsmodels==0.13.5
+xgboost==1.7.3
+
+# Data manipulation libraries
+numpy==1.22.1
+pandas==1.5.3
+
+# Fundamental algorithms for scientific computing in Python
+scipy==1.7.3
+
+# Bayesian statistical modeling and Probabilistic Machine Learning
+pymc3==3.11.5
+
+# Python library for detecting outlying objects in multivariate data
+pyod==1.0.7
+
+# Data Ingestion libraries
+SQLAlchemy==1.4.0
+requests==2.28.2
+
+# Datasets libraries
+yfinance==0.2.12
+
+# Others
+uuid==1.30
+nltk==3.8.1
+numba==0.56.4
